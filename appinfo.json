@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stubenhocker1399@gmail.com",
+    "longName": "School Schedule",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Menu Image.png",
+                "menuIcon": true,
+                "name": "Menu_Image",
+                "type": "png"
+            },
+            {
+                "file": "images/testbackg2.png",
+                "name": "IMG_BACKG",
+                "type": "png"
+            },
+            {
+                "file": "images/overlay.png",
+                "name": "OVERLAY_IMG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "School Timetable",
+    "uuid": "719720e4-bbc3-453d-8e2b-415a754fb73d",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
